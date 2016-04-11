@@ -1,0 +1,28 @@
+name: World of wonder
+favicon: null
+layout_spectrum: 0.9972419126424938
+typography_spectrum: 0.4170291256159544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.19373810244724154
+  lightness: 0.9870489800814539
+  saturation: 0.4798344555310905
+  rhythmicContrast: 0.5682411750312895
+purpose: []
