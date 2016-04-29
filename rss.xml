@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[World of wonder]]></title>
-        <description><![CDATA[World of wonder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[World of Wonder]]></title>
+        <description><![CDATA[World of Wonder]]></description>
+        <link>https://thegrid.ai/world-of-wonder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 23:51:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 06:20:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/world-of-wonder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f7e552-ede9-48be-a0a8-a42f8c6c64da.jpg">]]></description>
+            <link>https://thegrid.ai/world-of-wonder/this-is-something/index.html</link>
+            <guid isPermaLink="false">b02116e7-dd9b-492b-90a6-4c515947a95a</guid>
+            <pubDate>Fri, 29 Apr 2016 06:20:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aef91337-d986-48bf-bf53-ad17d58c9abb.jpg">]]></description>
-            <link>undefinedd97f9e04-69fb-44d6-baf9-f1f325883fbc/index.html</link>
+            <link>https://thegrid.ai/world-of-wonder/d97f9e04-69fb-44d6-baf9-f1f325883fbc/index.html</link>
             <guid isPermaLink="false">d97f9e04-69fb-44d6-baf9-f1f325883fbc</guid>
             <pubDate>Mon, 11 Apr 2016 23:51:08 GMT</pubDate>
         </item>
